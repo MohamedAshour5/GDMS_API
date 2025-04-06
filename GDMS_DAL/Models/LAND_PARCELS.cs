@@ -12,6 +12,7 @@ namespace GDMS_DAL.Models
     [Table("LAND_PARCELS", Schema = "SDE")]
     public class LAND_PARCELS
     {
+//com
         [Key]
         public int? OBJECTID { get; set; }
         public string?  LP_ID { get; set; }
