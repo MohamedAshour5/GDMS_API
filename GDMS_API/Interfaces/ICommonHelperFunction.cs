@@ -9,5 +9,7 @@ namespace GDMS_API.Interfaces
         public string GetDepartementKeyFromValue(string value);
         int? checkStatusIsFound(int value);
 
+
+
     }
 }
